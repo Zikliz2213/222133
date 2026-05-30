@@ -1,4 +1,4 @@
-const API_URL = 'https://pipipupu-production.up.railway.app';
+const API_URL = '222133-production.up.railway.app';
 
 // ======================================================
 // MOCK MODE — включи true чтобы тестировать без сервера
