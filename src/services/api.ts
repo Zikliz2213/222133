@@ -3,7 +3,7 @@ const API_URL = '222133-production.up.railway.app';
 // ======================================================
 // MOCK MODE — включи true чтобы тестировать без сервера
 // ======================================================
-const USE_MOCK = false;
+const USE_MOCK = true;
 
 const mockDelay = () => new Promise(res => setTimeout(res, 800));
 
